@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wen.blog.daozheng.asia</id>
+    <title>精苏的博客</title>
+    <updated>2024-02-26T13:17:10.842Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wen.blog.daozheng.asia"/>
+    <link rel="self" href="https://wen.blog.daozheng.asia/atom.xml"/>
+    <subtitle>全世界的无产者联合起来！</subtitle>
+    <logo>https://wen.blog.daozheng.asia/images/avatar.png</logo>
+    <icon>https://wen.blog.daozheng.asia/favicon.ico</icon>
+    <rights>All rights reserved 2024, 精苏的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[大事记]]></title>
+        <id>https://wen.blog.daozheng.asia/post/da-shi-ji/</id>
+        <link href="https://wen.blog.daozheng.asia/post/da-shi-ji/">
+        </link>
+        <updated>2024-02-26T13:14:57.000Z</updated>
+        <content type="html"><![CDATA[<p>2024年2月26日，本站建成（by Gridea）</p>
+]]></content>
+    </entry>
+</feed>
